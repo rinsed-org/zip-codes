@@ -36,7 +36,7 @@ module ZipCodes
       end
     end
 
-    @cache[country][country][zip_code] = nil
+    @cache[country][zip_code] = nil
   end
 
   def self.parse_entry(entry)
