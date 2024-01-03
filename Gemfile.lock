@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     zip-codes (0.3.0)
-      activesupport (>= 6.0.0, < 7.1)
+      activesupport (>= 6.0.0)
       fastcsv (~> 0.0.6)
 
 GEM
