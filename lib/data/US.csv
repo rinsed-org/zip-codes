@@ -1,4 +1,215 @@
 zip_code,state_code,state_name,city,time_zone
+00601,PR,Puerto Rico,Adjuntas,America/Puerto_Rico
+00602,PR,Puerto Rico,Aguada,America/Puerto_Rico
+00603,PR,Puerto Rico,Aguadilla,America/Puerto_Rico
+00604,PR,Puerto Rico,Aguadilla,America/Puerto_Rico
+00605,PR,Puerto Rico,Aguadilla,America/Puerto_Rico
+00606,PR,Puerto Rico,Maricao,America/Puerto_Rico
+00607,PR,Puerto Rico,Aguas Buenas,America/Puerto_Rico
+00609,PR,Puerto Rico,Aibonito,America/Puerto_Rico
+00610,PR,Puerto Rico,Anasco,America/Puerto_Rico
+00611,PR,Puerto Rico,Angeles,America/Puerto_Rico
+00612,PR,Puerto Rico,Arecibo,America/Puerto_Rico
+00613,PR,Puerto Rico,Arecibo,America/Puerto_Rico
+00614,PR,Puerto Rico,Arecibo,America/Puerto_Rico
+00615,PR,Puerto Rico,Arroyo,America/Puerto_Rico
+00616,PR,Puerto Rico,Bajadero,America/Puerto_Rico
+00617,PR,Puerto Rico,Barceloneta,America/Puerto_Rico
+00618,PR,Puerto Rico,Barranquitas,America/Puerto_Rico
+00622,PR,Puerto Rico,Boqueron,America/Puerto_Rico
+00623,PR,Puerto Rico,Cabo Rojo,America/Puerto_Rico
+00624,PR,Puerto Rico,Penuelas,America/Puerto_Rico
+00625,PR,Puerto Rico,Caguas,America/Puerto_Rico
+00626,PR,Puerto Rico,Caguas,America/Puerto_Rico
+00627,PR,Puerto Rico,Camuy,America/Puerto_Rico
+00631,PR,Puerto Rico,Castaner,America/Puerto_Rico
+00633,PR,Puerto Rico,Cayey,America/Puerto_Rico
+00634,PR,Puerto Rico,Cayey,America/Puerto_Rico
+00635,PR,Puerto Rico,Ceiba,America/Puerto_Rico
+00636,PR,Puerto Rico,Rosario,America/Puerto_Rico
+00637,PR,Puerto Rico,Sabana Grande,America/Puerto_Rico
+00638,PR,Puerto Rico,Ciales,America/Puerto_Rico
+00639,PR,Puerto Rico,Cidra,America/Puerto_Rico
+00640,PR,Puerto Rico,Coamo,America/Puerto_Rico
+00641,PR,Puerto Rico,Utuado,America/Puerto_Rico
+00643,PR,Puerto Rico,Corozal,America/Puerto_Rico
+00644,PR,Puerto Rico,Coto Laurel,America/Puerto_Rico
+00645,PR,Puerto Rico,Culebra,America/Puerto_Rico
+00646,PR,Puerto Rico,Dorado,America/Puerto_Rico
+00647,PR,Puerto Rico,Ensenada,America/Puerto_Rico
+00648,PR,Puerto Rico,Fajardo,America/Puerto_Rico
+00650,PR,Puerto Rico,Florida,America/Puerto_Rico
+00652,PR,Puerto Rico,Garrochales,America/Puerto_Rico
+00653,PR,Puerto Rico,Guanica,America/Puerto_Rico
+00654,PR,Puerto Rico,Jobos,America/Puerto_Rico
+00655,PR,Puerto Rico,Olimpo,America/Puerto_Rico
+00656,PR,Puerto Rico,Guayanilla,America/Puerto_Rico
+00658,PR,Puerto Rico,Gurabo,America/Puerto_Rico
+00659,PR,Puerto Rico,Hatillo,America/Puerto_Rico
+00660,PR,Puerto Rico,Hormigueros,America/Puerto_Rico
+00661,PR,Puerto Rico,Humacao,America/Puerto_Rico
+00662,PR,Puerto Rico,Isabela,America/Puerto_Rico
+00664,PR,Puerto Rico,Jayuya,America/Puerto_Rico
+00665,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00666,PR,Puerto Rico,Juncos,America/Puerto_Rico
+00667,PR,Puerto Rico,Lajas,America/Puerto_Rico
+00669,PR,Puerto Rico,Lares,America/Puerto_Rico
+00670,PR,Puerto Rico,Las Marias,America/Puerto_Rico
+00671,PR,Puerto Rico,Las Piedras,America/Puerto_Rico
+00674,PR,Puerto Rico,Manati,America/Puerto_Rico
+00676,PR,Puerto Rico,Moca,America/Puerto_Rico
+00677,PR,Puerto Rico,Rincon,America/Puerto_Rico
+00678,PR,Puerto Rico,Quebradillas,America/Puerto_Rico
+00680,PR,Puerto Rico,Mayaguez,America/Puerto_Rico
+00681,PR,Puerto Rico,Mayaguez,America/Puerto_Rico
+00682,PR,Puerto Rico,Mayaguez,America/Puerto_Rico
+00683,PR,Puerto Rico,San German,America/Puerto_Rico
+00685,PR,Puerto Rico,San Sebastian,America/Puerto_Rico
+00687,PR,Puerto Rico,Morovis,America/Puerto_Rico
+00688,PR,Puerto Rico,Sabana Hoyos,America/Puerto_Rico
+00690,PR,Puerto Rico,San Antonio,America/Puerto_Rico
+00692,PR,Puerto Rico,Vega Alta,America/Puerto_Rico
+00693,PR,Puerto Rico,Vega Baja,America/Puerto_Rico
+00694,PR,Puerto Rico,Vega Baja,America/Puerto_Rico
+00698,PR,Puerto Rico,Yauco,America/Puerto_Rico
+00703,PR,Puerto Rico,Aguas Buenas,America/Puerto_Rico
+00704,PR,Puerto Rico,Aguirre,America/Puerto_Rico
+00705,PR,Puerto Rico,Aibonito,America/Puerto_Rico
+00707,PR,Puerto Rico,Maunabo,America/Puerto_Rico
+00714,PR,Puerto Rico,Arroyo,America/Puerto_Rico
+00715,PR,Puerto Rico,Mercedita,America/Puerto_Rico
+00716,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00717,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00718,PR,Puerto Rico,Naguabo,America/Puerto_Rico
+00719,PR,Puerto Rico,Naranjito,America/Puerto_Rico
+00720,PR,Puerto Rico,Orocovis,America/Puerto_Rico
+00721,PR,Puerto Rico,Palmer,America/Puerto_Rico
+00723,PR,Puerto Rico,Patillas,America/Puerto_Rico
+00725,PR,Puerto Rico,Caguas,America/Puerto_Rico
+00726,PR,Puerto Rico,Caguas,America/Puerto_Rico
+00728,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00729,PR,Puerto Rico,Canovanas,America/Puerto_Rico
+00730,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00731,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00732,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00733,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00734,PR,Puerto Rico,Ponce,America/Puerto_Rico
+00735,PR,Puerto Rico,Ceiba,America/Puerto_Rico
+00736,PR,Puerto Rico,Cayey,America/Puerto_Rico
+00737,PR,Puerto Rico,Cayey,America/Puerto_Rico
+00738,PR,Puerto Rico,Fajardo,America/Puerto_Rico
+00739,PR,Puerto Rico,Cidra,America/Puerto_Rico
+00740,PR,Puerto Rico,Puerto Real,America/Puerto_Rico
+00741,PR,Puerto Rico,Punta Santiago,America/Puerto_Rico
+00742,PR,Puerto Rico,Roosevelt Roads,America/Puerto_Rico
+00744,PR,Puerto Rico,Rio Blanco,America/Puerto_Rico
+00745,PR,Puerto Rico,Rio Grande,America/Puerto_Rico
+00747,PR,Puerto Rico,Lluveras,America/Puerto_Rico
+00748,PR,Puerto Rico,Fajardo,America/Puerto_Rico
+00751,PR,Puerto Rico,Salinas,America/Puerto_Rico
+00752,PR,Puerto Rico,San Antonio,America/Puerto_Rico
+00754,PR,Puerto Rico,San Lorenzo,America/Puerto_Rico
+00757,PR,Puerto Rico,Santa Isabel,America/Puerto_Rico
+00761,PR,Puerto Rico,Utuado,America/Puerto_Rico
+00762,PR,Puerto Rico,Vega Alta,America/Puerto_Rico
+00763,PR,Puerto Rico,Monserrate,America/Puerto_Rico
+00764,PR,Puerto Rico,Vega Baja,America/Puerto_Rico
+00765,PR,Puerto Rico,Vieques,America/Puerto_Rico
+00766,PR,Puerto Rico,Villalba,America/Puerto_Rico
+00767,PR,Puerto Rico,Yabucoa,America/Puerto_Rico
+00768,PR,Puerto Rico,Yauco,America/Puerto_Rico
+00769,PR,Puerto Rico,Coamo,America/Puerto_Rico
+00771,PR,Puerto Rico,Las Piedras,America/Puerto_Rico
+00772,PR,Puerto Rico,Loiza,America/Puerto_Rico
+00773,PR,Puerto Rico,Luquillo,America/Puerto_Rico
+00775,PR,Puerto Rico,Culebra,America/Puerto_Rico
+00777,PR,Puerto Rico,Juncos,America/Puerto_Rico
+00778,PR,Puerto Rico,Gurabo,America/Puerto_Rico
+00780,PR,Puerto Rico,Coto Laurel,America/Puerto_Rico
+00782,PR,Puerto Rico,Comerio,America/Puerto_Rico
+00783,PR,Puerto Rico,Corozal,America/Puerto_Rico
+00784,PR,Puerto Rico,Guayama,America/Puerto_Rico
+00785,PR,Puerto Rico,Guayama,America/Puerto_Rico
+00786,PR,Puerto Rico,La Plata,America/Puerto_Rico
+00791,PR,Puerto Rico,Humacao,America/Puerto_Rico
+00792,PR,Puerto Rico,Humacao,America/Puerto_Rico
+00794,PR,Puerto Rico,Barranquitas,America/Puerto_Rico
+00795,PR,Puerto Rico,Juana Diaz,America/Puerto_Rico
+00802,VI,Virgin Islands,Saint Thomas,America/St_Thomas
+00820,VI,Virgin Islands,Christiansted,America/St_Thomas
+00830,VI,Virgin Islands,Saint John,America/St_Thomas
+00840,VI,Virgin Islands,Frederiksted,America/St_Thomas
+00850,VI,Virgin Islands,Kingshill,America/St_Thomas
+00901,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00902,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00906,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00907,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00908,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00909,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00910,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00911,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00912,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00913,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00914,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00915,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00916,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00917,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00918,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00919,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00920,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00921,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00922,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00923,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00924,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00925,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00926,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00927,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00928,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00929,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00930,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00931,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00933,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00934,PR,Puerto Rico,Fort Buchanan,America/Puerto_Rico
+00935,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00936,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00937,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00938,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00939,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00940,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00949,PR,Puerto Rico,Toa Baja,America/Puerto_Rico
+00950,PR,Puerto Rico,Toa Baja,America/Puerto_Rico
+00951,PR,Puerto Rico,Toa Baja,America/Puerto_Rico
+00952,PR,Puerto Rico,Sabana Seca,America/Puerto_Rico
+00953,PR,Puerto Rico,Toa Alta,America/Puerto_Rico
+00954,PR,Puerto Rico,Toa Alta,America/Puerto_Rico
+00955,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00956,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00957,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00958,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00959,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00960,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00961,PR,Puerto Rico,Bayamon,America/Puerto_Rico
+00962,PR,Puerto Rico,Catano,America/Puerto_Rico
+00963,PR,Puerto Rico,Catano,America/Puerto_Rico
+00965,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00966,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00968,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00969,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00970,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00971,PR,Puerto Rico,Guaynabo,America/Puerto_Rico
+00975,PR,Puerto Rico,San Juan,America/Puerto_Rico
+00976,PR,Puerto Rico,Trujillo Alto,America/Puerto_Rico
+00977,PR,Puerto Rico,Trujillo Alto,America/Puerto_Rico
+00978,PR,Puerto Rico,St Just,America/Puerto_Rico
+00979,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00981,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00982,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00983,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00984,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00985,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00986,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00987,PR,Puerto Rico,Carolina,America/Puerto_Rico
+00988,PR,Puerto Rico,Carolina,America/Puerto_Rico
 34050,AA,,FPO,
 34034,AA,,APO,
 99553,AK,Alaska,Akutan,America/Anchorage
@@ -1186,6 +1397,7 @@ zip_code,state_code,state_name,city,time_zone
 72659,AR,Arkansas,Norfork,America/Chicago
 72711,AR,Arkansas,Avoca,America/Chicago
 72712,AR,Arkansas,Bentonville,America/Chicago
+72713,AR,Arkansas,Highfill,America/Chicago
 72714,AR,Arkansas,Bella Vista,America/Chicago
 72715,AR,Arkansas,Bella Vista,America/Chicago
 72716,AR,Arkansas,Bentonville,America/Chicago
@@ -1981,6 +2193,7 @@ zip_code,state_code,state_name,city,time_zone
 86351,AZ,Arizona,Sedona,America/Phoenix
 86435,AZ,Arizona,Supai,America/Denver
 85135,AZ,Arizona,Hayden,America/Phoenix
+85191,AZ,Arizona,Valley Farms,America/Phoenix
 85192,AZ,Arizona,Winkelman,America/Phoenix
 85235,AZ,Arizona,Hayden,America/Phoenix
 85501,AZ,Arizona,Globe,America/Phoenix
@@ -2157,6 +2370,7 @@ zip_code,state_code,state_name,city,time_zone
 85285,AZ,Arizona,Tempe,America/Phoenix
 85286,AZ,Arizona,Chandler,America/Phoenix
 85287,AZ,Arizona,Tempe,America/Phoenix
+85288,AZ,Arizona,Tempe,America/Phoenix
 85289,AZ,Arizona,Tempe,America/Phoenix
 85290,AZ,Arizona,Tortilla Flat,America/Phoenix
 85295,AZ,Arizona,Gilbert,America/Phoenix
@@ -9417,7 +9631,19 @@ zip_code,state_code,state_name,city,time_zone
 31789,GA,Georgia,Sumner,America/New_York
 31791,GA,Georgia,Sylvester,America/New_York
 31796,GA,Georgia,Warwick,America/New_York
-96912,GU,,DEDEDO,
+96910,GU,Guam,Hagatna,Chamorro/Guam
+96912,GU,Guam,Dededo,Chamorro/Guam
+96913,GU,Guam,Barrigada,Chamorro/Guam
+96915,GU,Guam,Santa,Chamorro/Guam
+96916,GU,Guam,Merizo,Chamorro/Guam
+96917,GU,Guam,Inarajan,Chamorro/Guam
+96919,GU,Guam,Agana,Chamorro/Guam
+96921,GU,Guam,Barrigada,Chamorro/Guam
+96923,GU,Guam,Mangilao,Chamorro/Guam
+96928,GU,Guam,Agat,Chamorro/Guam
+96929,GU,Guam,Yigo,Chamorro/Guam
+96931,GU,Guam,Tamuning,Chamorro/Guam
+96932,GU,Guam,Hagatna,Chamorro/Guam
 96704,HI,Hawaii,Captain Cook,Pacific/Honolulu
 96710,HI,Hawaii,Hakalau,Pacific/Honolulu
 96718,HI,Hawaii,Hawaii National Park,Pacific/Honolulu
@@ -9470,6 +9696,7 @@ zip_code,state_code,state_name,city,time_zone
 96792,HI,Hawaii,Waianae,Pacific/Honolulu
 96795,HI,Hawaii,Waimanalo,Pacific/Honolulu
 96797,HI,Hawaii,Waipahu,Pacific/Honolulu
+96799,AS,American Samoa,Pago Pago,Pacific/Pago_Pago
 96801,HI,Hawaii,Honolulu,Pacific/Honolulu
 96802,HI,Hawaii,Honolulu,Pacific/Honolulu
 96803,HI,Hawaii,Honolulu,Pacific/Honolulu
@@ -12928,7 +13155,6 @@ zip_code,state_code,state_name,city,time_zone
 46952,IN,Indiana,Marion,America/Indiana/Indianapolis
 46953,IN,Indiana,Marion,America/Indiana/Indianapolis
 46957,IN,Indiana,Matthews,America/Indiana/Indianapolis
-46983,IN,Indiana,Sims,America/New_York
 46986,IN,Indiana,Swayzee,America/Indiana/Indianapolis
 46987,IN,Indiana,Sweetser,America/Indiana/Indianapolis
 46989,IN,Indiana,Upland,America/Indiana/Indianapolis
@@ -16788,7 +17014,6 @@ zip_code,state_code,state_name,city,time_zone
 02159,MA,Massachusetts,Newton,America/New_York
 02160,MA,Massachusetts,Newton,America/New_York
 02161,MA,Massachusetts,Newton,America/New_York
-02162,MA,Massachusetts,Newton,America/New_York
 02164,MA,Massachusetts,Newton,America/New_York
 02165,MA,Massachusetts,Newton,America/New_York
 02166,MA,Massachusetts,Auburndale,America/New_York
@@ -23527,7 +23752,6 @@ zip_code,state_code,state_name,city,time_zone
 27820,NC,North Carolina,Conway,America/New_York
 27831,NC,North Carolina,Garysburg,America/New_York
 27832,NC,North Carolina,Gaston,America/New_York
-27838,NC,North Carolina,Gumberry,America/New_York
 27842,NC,North Carolina,Henrico,America/New_York
 27845,NC,North Carolina,Jackson,America/New_York
 27853,NC,North Carolina,Margarettsville,America/New_York
@@ -26205,6 +26429,7 @@ zip_code,state_code,state_name,city,time_zone
 88355,NM,New Mexico,Ruidoso,America/Denver
 87544,NM,New Mexico,Los Alamos,America/Denver
 87545,NM,New Mexico,Los Alamos,America/Denver
+87547,NM,New Mexico,White Rock,America/Denver
 88029,NM,New Mexico,Columbus,America/Denver
 88030,NM,New Mexico,Deming,America/Denver
 88031,NM,New Mexico,Deming,America/Denver
@@ -27752,171 +27977,171 @@ zip_code,state_code,state_name,city,time_zone
 11853,NY,New York,Jericho,America/New_York
 11854,NY,New York,Hicksville,America/New_York
 11855,NY,New York,Hicksville,America/New_York
-10000,NY,New York,New York City,America/New_York
-10001,NY,New York,New York City,America/New_York
-10002,NY,New York,New York City,America/New_York
-10003,NY,New York,New York City,America/New_York
-10004,NY,New York,New York City,America/New_York
-10005,NY,New York,New York City,America/New_York
-10006,NY,New York,New York City,America/New_York
-10007,NY,New York,New York City,America/New_York
-10008,NY,New York,New York City,America/New_York
-10009,NY,New York,New York City,America/New_York
-10010,NY,New York,New York City,America/New_York
-10011,NY,New York,New York City,America/New_York
-10012,NY,New York,New York City,America/New_York
-10013,NY,New York,New York City,America/New_York
-10014,NY,New York,New York City,America/New_York
-10015,NY,New York,New York City,America/New_York
-10016,NY,New York,New York City,America/New_York
-10017,NY,New York,New York City,America/New_York
-10018,NY,New York,New York City,America/New_York
-10019,NY,New York,New York City,America/New_York
-10020,NY,New York,New York City,America/New_York
-10021,NY,New York,New York City,America/New_York
-10022,NY,New York,New York City,America/New_York
-10023,NY,New York,New York City,America/New_York
-10024,NY,New York,New York City,America/New_York
-10025,NY,New York,New York City,America/New_York
-10026,NY,New York,New York City,America/New_York
-10027,NY,New York,New York City,America/New_York
-10028,NY,New York,New York City,America/New_York
-10029,NY,New York,New York City,America/New_York
-10030,NY,New York,New York City,America/New_York
-10031,NY,New York,New York City,America/New_York
-10032,NY,New York,New York City,America/New_York
-10033,NY,New York,New York City,America/New_York
-10034,NY,New York,New York City,America/New_York
-10035,NY,New York,New York City,America/New_York
-10036,NY,New York,New York City,America/New_York
-10037,NY,New York,New York City,America/New_York
-10038,NY,New York,New York City,America/New_York
-10039,NY,New York,New York City,America/New_York
-10040,NY,New York,New York City,America/New_York
-10041,NY,New York,New York City,America/New_York
-10043,NY,New York,New York City,America/New_York
-10044,NY,New York,New York City,America/New_York
-10045,NY,New York,New York City,America/New_York
-10046,NY,New York,New York City,America/New_York
-10047,NY,New York,New York City,America/New_York
-10048,NY,New York,New York City,America/New_York
-10055,NY,New York,New York City,America/New_York
-10060,NY,New York,New York City,America/New_York
-10065,NY,New York,New York City,America/New_York
-10069,NY,New York,New York City,America/New_York
-10072,NY,New York,New York City,America/New_York
-10075,NY,New York,New York City,America/New_York
-10079,NY,New York,New York City,America/New_York
-10080,NY,New York,New York City,America/New_York
-10081,NY,New York,New York City,America/New_York
-10082,NY,New York,New York City,America/New_York
-10087,NY,New York,New York City,America/New_York
-10090,NY,New York,New York City,America/New_York
-10094,NY,New York,New York City,America/New_York
-10095,NY,New York,New York City,America/New_York
-10096,NY,New York,New York City,America/New_York
-10098,NY,New York,New York City,America/New_York
-10099,NY,New York,New York City,America/New_York
-10101,NY,New York,New York City,America/New_York
-10102,NY,New York,New York City,America/New_York
-10103,NY,New York,New York City,America/New_York
-10104,NY,New York,New York City,America/New_York
-10105,NY,New York,New York City,America/New_York
-10106,NY,New York,New York City,America/New_York
-10107,NY,New York,New York City,America/New_York
-10108,NY,New York,New York City,America/New_York
-10109,NY,New York,New York City,America/New_York
-10110,NY,New York,New York City,America/New_York
-10111,NY,New York,New York City,America/New_York
-10112,NY,New York,New York City,America/New_York
-10113,NY,New York,New York City,America/New_York
-10114,NY,New York,New York City,America/New_York
-10115,NY,New York,New York City,America/New_York
-10116,NY,New York,New York City,America/New_York
-10117,NY,New York,New York City,America/New_York
-10118,NY,New York,New York City,America/New_York
-10119,NY,New York,New York City,America/New_York
-10120,NY,New York,New York City,America/New_York
-10121,NY,New York,New York City,America/New_York
-10122,NY,New York,New York City,America/New_York
-10123,NY,New York,New York City,America/New_York
-10124,NY,New York,New York City,America/New_York
-10125,NY,New York,New York City,America/New_York
-10126,NY,New York,New York City,America/New_York
-10128,NY,New York,New York City,America/New_York
-10129,NY,New York,New York City,America/New_York
-10130,NY,New York,New York City,America/New_York
-10131,NY,New York,New York City,America/New_York
-10132,NY,New York,New York City,America/New_York
-10133,NY,New York,New York City,America/New_York
-10138,NY,New York,New York City,America/New_York
-10149,NY,New York,New York City,America/New_York
-10150,NY,New York,New York City,America/New_York
-10151,NY,New York,New York City,America/New_York
-10152,NY,New York,New York City,America/New_York
-10153,NY,New York,New York City,America/New_York
-10154,NY,New York,New York City,America/New_York
-10155,NY,New York,New York City,America/New_York
-10156,NY,New York,New York City,America/New_York
-10157,NY,New York,New York City,America/New_York
-10158,NY,New York,New York City,America/New_York
-10159,NY,New York,New York City,America/New_York
-10160,NY,New York,New York City,America/New_York
-10161,NY,New York,New York City,America/New_York
-10162,NY,New York,New York City,America/New_York
-10163,NY,New York,New York City,America/New_York
-10164,NY,New York,New York City,America/New_York
-10165,NY,New York,New York City,America/New_York
-10166,NY,New York,New York City,America/New_York
-10167,NY,New York,New York City,America/New_York
-10168,NY,New York,New York City,America/New_York
-10169,NY,New York,New York City,America/New_York
-10170,NY,New York,New York City,America/New_York
-10171,NY,New York,New York City,America/New_York
-10172,NY,New York,New York City,America/New_York
-10173,NY,New York,New York City,America/New_York
-10174,NY,New York,New York City,America/New_York
-10175,NY,New York,New York City,America/New_York
-10176,NY,New York,New York City,America/New_York
-10177,NY,New York,New York City,America/New_York
-10178,NY,New York,New York City,America/New_York
-10179,NY,New York,New York City,America/New_York
-10184,NY,New York,New York City,America/New_York
-10185,NY,New York,New York City,America/New_York
-10196,NY,New York,New York City,America/New_York
-10197,NY,New York,New York City,America/New_York
-10199,NY,New York,New York City,America/New_York
-10203,NY,New York,New York City,America/New_York
-10211,NY,New York,New York City,America/New_York
-10212,NY,New York,New York City,America/New_York
-10213,NY,New York,New York City,America/New_York
-10242,NY,New York,New York City,America/New_York
-10249,NY,New York,New York City,America/New_York
-10256,NY,New York,New York City,America/New_York
-10257,NY,New York,New York City,America/New_York
-10258,NY,New York,New York City,America/New_York
-10259,NY,New York,New York City,America/New_York
-10260,NY,New York,New York City,America/New_York
-10261,NY,New York,New York City,America/New_York
-10265,NY,New York,New York City,America/New_York
-10268,NY,New York,New York City,America/New_York
-10269,NY,New York,New York City,America/New_York
-10270,NY,New York,New York City,America/New_York
-10271,NY,New York,New York City,America/New_York
-10272,NY,New York,New York City,America/New_York
-10273,NY,New York,New York City,America/New_York
-10274,NY,New York,New York City,America/New_York
-10275,NY,New York,New York City,America/New_York
-10276,NY,New York,New York City,America/New_York
-10277,NY,New York,New York City,America/New_York
-10278,NY,New York,New York City,America/New_York
-10279,NY,New York,New York City,America/New_York
-10280,NY,New York,New York City,America/New_York
-10281,NY,New York,New York City,America/New_York
-10282,NY,New York,New York City,America/New_York
-10285,NY,New York,New York City,America/New_York
-10286,NY,New York,New York City,America/New_York
-10292,NY,New York,New York City,America/New_York
+10000,NY,New York,New York,America/New_York
+10001,NY,New York,New York,America/New_York
+10002,NY,New York,New York,America/New_York
+10003,NY,New York,New York,America/New_York
+10004,NY,New York,New York,America/New_York
+10005,NY,New York,New York,America/New_York
+10006,NY,New York,New York,America/New_York
+10007,NY,New York,New York,America/New_York
+10008,NY,New York,New York,America/New_York
+10009,NY,New York,New York,America/New_York
+10010,NY,New York,New York,America/New_York
+10011,NY,New York,New York,America/New_York
+10012,NY,New York,New York,America/New_York
+10013,NY,New York,New York,America/New_York
+10014,NY,New York,New York,America/New_York
+10015,NY,New York,New York,America/New_York
+10016,NY,New York,New York,America/New_York
+10017,NY,New York,New York,America/New_York
+10018,NY,New York,New York,America/New_York
+10019,NY,New York,New York,America/New_York
+10020,NY,New York,New York,America/New_York
+10021,NY,New York,New York,America/New_York
+10022,NY,New York,New York,America/New_York
+10023,NY,New York,New York,America/New_York
+10024,NY,New York,New York,America/New_York
+10025,NY,New York,New York,America/New_York
+10026,NY,New York,New York,America/New_York
+10027,NY,New York,New York,America/New_York
+10028,NY,New York,New York,America/New_York
+10029,NY,New York,New York,America/New_York
+10030,NY,New York,New York,America/New_York
+10031,NY,New York,New York,America/New_York
+10032,NY,New York,New York,America/New_York
+10033,NY,New York,New York,America/New_York
+10034,NY,New York,New York,America/New_York
+10035,NY,New York,New York,America/New_York
+10036,NY,New York,New York,America/New_York
+10037,NY,New York,New York,America/New_York
+10038,NY,New York,New York,America/New_York
+10039,NY,New York,New York,America/New_York
+10040,NY,New York,New York,America/New_York
+10041,NY,New York,New York,America/New_York
+10043,NY,New York,New York,America/New_York
+10044,NY,New York,New York,America/New_York
+10045,NY,New York,New York,America/New_York
+10046,NY,New York,New York,America/New_York
+10047,NY,New York,New York,America/New_York
+10048,NY,New York,New York,America/New_York
+10055,NY,New York,New York,America/New_York
+10060,NY,New York,New York,America/New_York
+10065,NY,New York,New York,America/New_York
+10069,NY,New York,New York,America/New_York
+10072,NY,New York,New York,America/New_York
+10075,NY,New York,New York,America/New_York
+10079,NY,New York,New York,America/New_York
+10080,NY,New York,New York,America/New_York
+10081,NY,New York,New York,America/New_York
+10082,NY,New York,New York,America/New_York
+10087,NY,New York,New York,America/New_York
+10090,NY,New York,New York,America/New_York
+10094,NY,New York,New York,America/New_York
+10095,NY,New York,New York,America/New_York
+10096,NY,New York,New York,America/New_York
+10098,NY,New York,New York,America/New_York
+10099,NY,New York,New York,America/New_York
+10101,NY,New York,New York,America/New_York
+10102,NY,New York,New York,America/New_York
+10103,NY,New York,New York,America/New_York
+10104,NY,New York,New York,America/New_York
+10105,NY,New York,New York,America/New_York
+10106,NY,New York,New York,America/New_York
+10107,NY,New York,New York,America/New_York
+10108,NY,New York,New York,America/New_York
+10109,NY,New York,New York,America/New_York
+10110,NY,New York,New York,America/New_York
+10111,NY,New York,New York,America/New_York
+10112,NY,New York,New York,America/New_York
+10113,NY,New York,New York,America/New_York
+10114,NY,New York,New York,America/New_York
+10115,NY,New York,New York,America/New_York
+10116,NY,New York,New York,America/New_York
+10117,NY,New York,New York,America/New_York
+10118,NY,New York,New York,America/New_York
+10119,NY,New York,New York,America/New_York
+10120,NY,New York,New York,America/New_York
+10121,NY,New York,New York,America/New_York
+10122,NY,New York,New York,America/New_York
+10123,NY,New York,New York,America/New_York
+10124,NY,New York,New York,America/New_York
+10125,NY,New York,New York,America/New_York
+10126,NY,New York,New York,America/New_York
+10128,NY,New York,New York,America/New_York
+10129,NY,New York,New York,America/New_York
+10130,NY,New York,New York,America/New_York
+10131,NY,New York,New York,America/New_York
+10132,NY,New York,New York,America/New_York
+10133,NY,New York,New York,America/New_York
+10138,NY,New York,New York,America/New_York
+10149,NY,New York,New York,America/New_York
+10150,NY,New York,New York,America/New_York
+10151,NY,New York,New York,America/New_York
+10152,NY,New York,New York,America/New_York
+10153,NY,New York,New York,America/New_York
+10154,NY,New York,New York,America/New_York
+10155,NY,New York,New York,America/New_York
+10156,NY,New York,New York,America/New_York
+10157,NY,New York,New York,America/New_York
+10158,NY,New York,New York,America/New_York
+10159,NY,New York,New York,America/New_York
+10160,NY,New York,New York,America/New_York
+10161,NY,New York,New York,America/New_York
+10162,NY,New York,New York,America/New_York
+10163,NY,New York,New York,America/New_York
+10164,NY,New York,New York,America/New_York
+10165,NY,New York,New York,America/New_York
+10166,NY,New York,New York,America/New_York
+10167,NY,New York,New York,America/New_York
+10168,NY,New York,New York,America/New_York
+10169,NY,New York,New York,America/New_York
+10170,NY,New York,New York,America/New_York
+10171,NY,New York,New York,America/New_York
+10172,NY,New York,New York,America/New_York
+10173,NY,New York,New York,America/New_York
+10174,NY,New York,New York,America/New_York
+10175,NY,New York,New York,America/New_York
+10176,NY,New York,New York,America/New_York
+10177,NY,New York,New York,America/New_York
+10178,NY,New York,New York,America/New_York
+10179,NY,New York,New York,America/New_York
+10184,NY,New York,New York,America/New_York
+10185,NY,New York,New York,America/New_York
+10196,NY,New York,New York,America/New_York
+10197,NY,New York,New York,America/New_York
+10199,NY,New York,New York,America/New_York
+10203,NY,New York,New York,America/New_York
+10211,NY,New York,New York,America/New_York
+10212,NY,New York,New York,America/New_York
+10213,NY,New York,New York,America/New_York
+10242,NY,New York,New York,America/New_York
+10249,NY,New York,New York,America/New_York
+10256,NY,New York,New York,America/New_York
+10257,NY,New York,New York,America/New_York
+10258,NY,New York,New York,America/New_York
+10259,NY,New York,New York,America/New_York
+10260,NY,New York,New York,America/New_York
+10261,NY,New York,New York,America/New_York
+10265,NY,New York,New York,America/New_York
+10268,NY,New York,New York,America/New_York
+10269,NY,New York,New York,America/New_York
+10270,NY,New York,New York,America/New_York
+10271,NY,New York,New York,America/New_York
+10272,NY,New York,New York,America/New_York
+10273,NY,New York,New York,America/New_York
+10274,NY,New York,New York,America/New_York
+10275,NY,New York,New York,America/New_York
+10276,NY,New York,New York,America/New_York
+10277,NY,New York,New York,America/New_York
+10278,NY,New York,New York,America/New_York
+10279,NY,New York,New York,America/New_York
+10280,NY,New York,New York,America/New_York
+10281,NY,New York,New York,America/New_York
+10282,NY,New York,New York,America/New_York
+10285,NY,New York,New York,America/New_York
+10286,NY,New York,New York,America/New_York
+10292,NY,New York,New York,America/New_York
 14008,NY,New York,Appleton,America/New_York
 14012,NY,New York,Barker,America/New_York
 14028,NY,New York,Burt,America/New_York
@@ -31383,6 +31608,7 @@ zip_code,state_code,state_name,city,time_zone
 97491,OR,Oregon,Wedderburn,America/Los_Angeles
 97701,OR,Oregon,Bend,America/Los_Angeles
 97702,OR,Oregon,Bend,America/Los_Angeles
+97703,OR,Oregon,Bend,America/Los_Angeles
 97707,OR,Oregon,Bend,America/Los_Angeles
 97708,OR,Oregon,Bend,America/Los_Angeles
 97709,OR,Oregon,Bend,America/Los_Angeles
@@ -34135,6 +34361,7 @@ zip_code,state_code,state_name,city,time_zone
 02892,RI,Rhode Island,West Kingston,America/New_York
 02894,RI,Rhode Island,Wood River Junction,America/New_York
 02898,RI,Rhode Island,Wyoming,America/New_York
+29486,SC,South Carolina,Summerville,America/New_York
 29620,SC,South Carolina,Abbeville,America/New_York
 29628,SC,South Carolina,Calhoun Falls,America/New_York
 29638,SC,South Carolina,Donalds,America/New_York
@@ -34229,7 +34456,6 @@ zip_code,state_code,state_name,city,time_zone
 29479,SC,South Carolina,Saint Stephen,America/New_York
 29492,SC,South Carolina,Charleston,America/New_York
 29030,SC,South Carolina,Cameron,America/New_York
-29077,SC,South Carolina,Lone Star,America/New_York
 29135,SC,South Carolina,Saint Matthews,America/New_York
 29401,SC,South Carolina,Charleston,America/New_York
 29402,SC,South Carolina,Charleston,America/New_York
@@ -36348,10 +36574,10 @@ zip_code,state_code,state_name,city,time_zone
 75033,TX,Texas,Frisco,America/Chicago
 75034,TX,Texas,Frisco,America/Chicago
 75035,TX,Texas,Frisco,America/Chicago
+75036,TX,Texas,Frisco,America/Chicago
 75069,TX,Texas,Mc Kinney,America/Chicago
 75070,TX,Texas,Mc Kinney,America/Chicago
 75071,TX,Texas,Mc Kinney,America/Chicago
-75072,TX,Texas,Mc Kinney,America/Chicago
 75074,TX,Texas,Plano,America/Chicago
 75075,TX,Texas,Plano,America/Chicago
 75078,TX,Texas,Prosper,America/Chicago
@@ -36568,7 +36794,6 @@ zip_code,state_code,state_name,city,time_zone
 75283,TX,Texas,Dallas,America/Chicago
 75284,TX,Texas,Dallas,America/Chicago
 75285,TX,Texas,Dallas,America/Chicago
-75286,TX,Texas,Dallas,America/Chicago
 75287,TX,Texas,Dallas,America/Chicago
 75294,TX,Texas,Dallas,America/Chicago
 75295,TX,Texas,Dallas,America/Chicago
@@ -38747,6 +38972,7 @@ zip_code,state_code,state_name,city,time_zone
 84001,UT,Utah,Altamont,America/Denver
 84002,UT,Utah,Altonah,America/Denver
 84007,UT,Utah,Bluebell,America/Denver
+84009,UT,Utah,South Jordan,America/Denver
 84012,UT,Utah,Bridgeland,America/Denver
 84021,UT,Utah,Duchesne,America/Denver
 84027,UT,Utah,Fruitland,America/Denver
