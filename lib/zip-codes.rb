@@ -40,11 +40,12 @@ module ZipCodes
   end
 
   def self.parse_entry(entry)
+    time_zone = ActiveSupport::TimeZone.new(entry[4]) if entry[4]
     {
       city: entry[3],
       state_code: entry[1],
       state_name: entry[2],
-      time_zone: ActiveSupport::TimeZone.new(entry[4])
+      time_zone:
     }
   end
 end
