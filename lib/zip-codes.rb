@@ -20,7 +20,6 @@ module ZipCodes
     return parse_entry(val) if val
 
     @cache[country] ||= {}
-    @cache[country][zip_code] ||= {}
 
     db = File.join(DB_DIR, "#{country}.csv")
 
