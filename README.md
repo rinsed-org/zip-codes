@@ -2,20 +2,29 @@
 
 Retrieve city, state, and time zone for a given ZIP code for those times when API's just aren’t doable 🎉
 
-# Updating ZipCodes DB
+Note that time zones are only supported for US zip codes. Canadian zip codes do not support time zones.
+
+Also only the first three characters of the Canadian postal code are used to look up the city and province.
+The remaining three characters should not be submitted in a call to ZipCodes.lookup.
+Documentation on why we only need to use the first three letters to determine the city and province
+is available at https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/postal-codes.page
+
+# Updating US ZipCodes DB
 
 1. Download the latest `US.yml` from https://github.com/monterail/zip-codes/tree/master/lib/data
-2. In a rails console:
-```
-zips = YAML.safe_load_file("/absolute/path/to/US.yml", permitted_classes: [Symbol]).to_h
-zips.each do |zip, z|
-  puts "#{zip},#{z[:state_code]},#{z[:state_name]},#{z[:city]},#{z[:time_zone]}"
-end; nil
-```
+   and place it in the `lib/data/source` directory.
+2. Run `ruby bin/convert_us_data.rb` to convert the data and produce a new lib/data/US.csv file.
+3. Run some manual tests using the bin/test_us_lookup.rb script.
+4. Commit the new `lib/data/US.csv` and `lib/data/source/US.yml` files.
 
-3. Update the existing `US.csv` file with the printed contents
+# Updating CA ZipCodes DB
 
-This isn't the cleanest approach, ideally we should take the time to put this in a script to streamline updates.
+1. Download the latest `CA.zip` from https://download.geonames.org/export/zip/CA.zip
+2. Unzip it and place the resulting CA.txt file in the `lib/data/source` directory.
+3. Delete the CA.zip file.
+4. Run `ruby bin/convert_ca_data.rb` to convert the data and produce a new lib/data/CA.csv file.
+5. Run some manual tests using the bin/test_ca_lookup.rb script.
+6. Commit the new `lib/data/CA.csv` and `lib/data/source/CA.txt` files.
 
 ## Installation
 
@@ -37,11 +46,23 @@ $ gem install zip-codes
 ZipCodes.lookup('US', '30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
 
+ZipCodes.lookup('CA', 'V3B')
+# => {:city=>"Port Coquitlam", :state_code=>"BC", :state_name=>"British Columbia", :time_zone=>nil}
+
 # Case insensitive
 ZipCodes.lookup('uS', '30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
 
+ZipCodes.lookup('cA', 'V3B')
+# => {:city=>"Port Coquitlam", :state_code=>"BC", :state_name=>"British Columbia", :time_zone=>nil}
+
+ZipCodes.lookup('CA', 'V3b')
+# => {:city=>"Port Coquitlam", :state_code=>"BC", :state_name=>"British Columbia", :time_zone=>nil}
+
 # Symbols work too
 ZipCodes.lookup(:US, '30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
+
+ZipCodes.lookup(:CA, 'V3B')
+# => {:city=>"Port Coquitlam", :state_code=>"BC", :state_name=>"British Columbia", :time_zone=>nil}
 ```

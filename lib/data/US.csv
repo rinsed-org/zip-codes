@@ -3974,7 +3974,6 @@ zip_code,state_code,state_name,city,time_zone
 92637,CA,California,Laguna Hills,America/Los_Angeles
 92640,CA,California,Fullerton,America/Los_Angeles
 92641,CA,California,Garden Grove,America/Los_Angeles
-92642,CA,California,Garden Grove,America/Los_Angeles
 92643,CA,California,Garden Grove,America/Los_Angeles
 92644,CA,California,Garden Grove,America/Los_Angeles
 92645,CA,California,Garden Grove,America/Los_Angeles
@@ -4722,12 +4721,10 @@ zip_code,state_code,state_name,city,time_zone
 92197,CA,California,San Diego,America/Los_Angeles
 92198,CA,California,San Diego,America/Los_Angeles
 92199,CA,California,San Diego,America/Los_Angeles
-94101,CA,California,San Francisco,America/Los_Angeles
 94102,CA,California,San Francisco,America/Los_Angeles
 94103,CA,California,San Francisco,America/Los_Angeles
 94104,CA,California,San Francisco,America/Los_Angeles
 94105,CA,California,San Francisco,America/Los_Angeles
-94106,CA,California,San Francisco,America/Los_Angeles
 94107,CA,California,San Francisco,America/Los_Angeles
 94108,CA,California,San Francisco,America/Los_Angeles
 94109,CA,California,San Francisco,America/Los_Angeles
@@ -9631,19 +9628,19 @@ zip_code,state_code,state_name,city,time_zone
 31789,GA,Georgia,Sumner,America/New_York
 31791,GA,Georgia,Sylvester,America/New_York
 31796,GA,Georgia,Warwick,America/New_York
-96910,GU,Guam,Hagatna,Chamorro/Guam
-96912,GU,Guam,Dededo,Chamorro/Guam
-96913,GU,Guam,Barrigada,Chamorro/Guam
-96915,GU,Guam,Santa,Chamorro/Guam
-96916,GU,Guam,Merizo,Chamorro/Guam
-96917,GU,Guam,Inarajan,Chamorro/Guam
-96919,GU,Guam,Agana,Chamorro/Guam
-96921,GU,Guam,Barrigada,Chamorro/Guam
-96923,GU,Guam,Mangilao,Chamorro/Guam
-96928,GU,Guam,Agat,Chamorro/Guam
-96929,GU,Guam,Yigo,Chamorro/Guam
-96931,GU,Guam,Tamuning,Chamorro/Guam
-96932,GU,Guam,Hagatna,Chamorro/Guam
+96910,GU,Guam,Hagatna,Pacific/Guam
+96912,GU,Guam,Dededo,Pacific/Guam
+96913,GU,Guam,Barrigada,Pacific/Guam
+96915,GU,Guam,Santa,Pacific/Guam
+96916,GU,Guam,Merizo,Pacific/Guam
+96917,GU,Guam,Inarajan,Pacific/Guam
+96919,GU,Guam,Agana,Pacific/Guam
+96921,GU,Guam,Barrigada,Pacific/Guam
+96923,GU,Guam,Mangilao,Pacific/Guam
+96928,GU,Guam,Agat,Pacific/Guam
+96929,GU,Guam,Yigo,Pacific/Guam
+96931,GU,Guam,Tamuning,Pacific/Guam
+96932,GU,Guam,Hagatna,Pacific/Guam
 96704,HI,Hawaii,Captain Cook,Pacific/Honolulu
 96710,HI,Hawaii,Hakalau,Pacific/Honolulu
 96718,HI,Hawaii,Hawaii National Park,Pacific/Honolulu
@@ -27806,7 +27803,6 @@ zip_code,state_code,state_name,city,time_zone
 14580,NY,New York,Webster,America/New_York
 14586,NY,New York,West Henrietta,America/New_York
 14600,NY,New York,Rochester,America/New_York
-14601,NY,New York,Rochester,America/New_York
 14602,NY,New York,Rochester,America/New_York
 14603,NY,New York,Rochester,America/New_York
 14604,NY,New York,Rochester,America/New_York
@@ -36578,6 +36574,7 @@ zip_code,state_code,state_name,city,time_zone
 75069,TX,Texas,Mc Kinney,America/Chicago
 75070,TX,Texas,Mc Kinney,America/Chicago
 75071,TX,Texas,Mc Kinney,America/Chicago
+75072,TX,Texas,Mc Kinney,America/Chicago
 75074,TX,Texas,Plano,America/Chicago
 75075,TX,Texas,Plano,America/Chicago
 75078,TX,Texas,Prosper,America/Chicago
@@ -36779,7 +36776,6 @@ zip_code,state_code,state_name,city,time_zone
 75252,TX,Texas,Dallas,America/Chicago
 75253,TX,Texas,Dallas,America/Chicago
 75254,TX,Texas,Dallas,America/Chicago
-75258,TX,Texas,Dallas,America/Chicago
 75260,TX,Texas,Dallas,America/Chicago
 75261,TX,Texas,Dallas,America/Chicago
 75262,TX,Texas,Dallas,America/Chicago
@@ -42065,7 +42061,6 @@ zip_code,state_code,state_name,city,time_zone
 53181,WI,Wisconsin,Twin Lakes,America/Chicago
 53192,WI,Wisconsin,Wilmot,America/Chicago
 53194,WI,Wisconsin,Woodworth,America/Chicago
-53199,WI,Wisconsin,Silver Lake,America/Chicago
 54201,WI,Wisconsin,Algoma,America/Chicago
 54205,WI,Wisconsin,Casco,America/Chicago
 54216,WI,Wisconsin,Kewaunee,America/Chicago
